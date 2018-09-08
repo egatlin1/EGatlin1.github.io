@@ -5,7 +5,7 @@ I am currently student at Alamo NVC working towards my AAS degree in video game 
 
 ## Projects
 
-[My Projects}(https://github.com/egatlin1/Projects)
+[My Projects](https://github.com/egatlin1/Projects)
 
 ## Contact
 Feel free to contact me at egatlin1.alamo.edu
