@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+![Matrix Image] (https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi5s5Kln6zdAhUGRqwKHUQgDD4QjRx6BAgBEAU&url=https%3A%2F%2Fgiphy.com%2Fgifs%2FQ9aBxHn9fTqKs&psig=AOvVaw3Xe-i-Pvj4p-wEmPYEU_9-&ust=1536524858388991)
 
-You can use the [editor on GitHub](https://github.com/egatlin1/Egatlin1.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## About me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am currently student at Alamo NVC working towards my AAS degree in video game programming. I have always had a passion for technology, video games, and programming and want to put my knowlegde and skill to help bring video games to the future.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Projects
 
-```markdown
-Syntax highlighted code block
+[My Projects}(https://github.com/egatlin1/Projects)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/egatlin1/Egatlin1.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Contact
+Feel free to contact me at egatlin1.alamo.edu
