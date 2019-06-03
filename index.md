@@ -2,7 +2,7 @@
 
 ## About me
 
-I am currently student at Alamo NVC working towards my AAS degree in video game programming. I have always had a passion for technology, video games, and programming and want to put my knowlegde and skill to use to help bring video games to the future.
+I am graduate student from Alamo NVC with an AAS degree in video game programming. I have always had a passion for technology, video games, and programming and want to put my knowlegde and skill to use to help bring video games to the future.
 
 
 ## Projects
@@ -10,4 +10,4 @@ I am currently student at Alamo NVC working towards my AAS degree in video game 
 [My Projects](https://github.com/egatlin1/Projects)
 
 ## Contact
-Feel free to contact me at egatlin1.alamo.edu
+Feel free to contact me at ejgatlin1@gmail.com
