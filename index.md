@@ -26,9 +26,9 @@ Curious about how game did archery, I created this demo to give a try at it. It 
 
 
 ### 2D Map Generator(WIP)
-![2D Map Generator Screeshot](https://i.imgur.com/Ga1Rxeb.png)
-I was curious about how games created such large and detailed worlds through procedural generation, so I started to work on this as my first shot at it. It is still an early version of what I want to accomplish, but as of now you can enter a map seed, control water levels, and save the image at your desired resolution to the desktop. I plan to keep working on it and add; different types of boimes, polar cap generations, give the user more control over the map generation, and city generation.
-[Download 2D Map Generator here](https://drive.google.com/file/d/1soNSlbWtb64cYFhWh7mcbgdtTg_UpuQf/view?usp=sharing)
+![2D Map Generator Screeshot](https://i.imgur.com/0Qi2Vue.png)
+I was curious about how games created such large and detailed worlds through procedural generation, so I started to work on this as my first shot at it. It is still an early version of what I want to accomplish, but as of now you can enter a map seed, control water levels, desert biomes appear in the world generation, and save the image at your desired resolution to the desktop. I plan to keep working on it and add; different types of boimes, polar cap generations, give the user more control over the map generation, and city generation.
+[Download 2D Map Generator here](https://drive.google.com/file/d/17aXX7hYNHoQ39H78TWCUO6MFeK9lYOA0/view?usp=sharing)
 
 
 ### Mirror
